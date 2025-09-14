@@ -19,7 +19,7 @@ winget install --id=astral-sh.uv  -e
 ### 2. Install the script
 
 ```
-uv tool install --from "git+https://github.com/tuirennder/ipnet@v0.1.3" ipnet
+uv tool install --from "git+https://github.com/tuirennder/ipnet@v0.1.4" ipnet
 ```
 
 ## Usage
